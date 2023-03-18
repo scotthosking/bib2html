@@ -1,0 +1,1643 @@
+entries:
+    andersson_2022_convgnp:
+        type: preprint
+        doi: 10.48550/ARXIV.2211.10381
+        url: https://arxiv.org/abs/2211.10381
+        title: Active Learning with Convolutional Gaussian Neural Processes for Environmental
+            Sensor Placement
+        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
+            and Decision-making Systems
+        year: '2022'
+        author:
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Wessel
+            middle: P.
+            last: Bruinsma
+        -   first: Stratis
+            last: Markou
+        -   first: James
+            last: Requeima
+        -   first: Alejandro
+            last: Coca-Castro
+        -   first: Anna
+            last: Vaughan
+        -   first: Anna-Louise
+            last: Ellis
+        -   first: Matthew
+            last: Lazzara
+        -   first: Daniel
+            middle: C.
+            last: Jones
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Richard
+            middle: E.
+            last: Turner
+    thodoroff_2022_mficesheet:
+        type: preprint
+        doi: .
+        url: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/4.pdf
+        title: Multi-fidelity experimental design for ice-sheet simulation
+        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
+            and Decision-making Systems
+        year: '2022'
+        author:
+        -   first: Pierre
+            last: Thodoroff!
+    ravuri_2022_icecoredating:
+        type: preprint
+        doi: 10.48550/ARXIV.2210.16568
+        url: https://arxiv.org/abs/2210.16568
+        title: Ice Core Dating using Probabilistic Programming
+        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
+            and Decision-making Systems
+        year: '2022'
+        author:
+        -   first: Aditya
+            last: Ravuri
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Ieva
+            last: Kazlauskaite
+        -   first: Will
+            last: Tebbutt
+        -   first: Richard
+            middle: E.
+            last: Turner
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Neil
+            middle: D.
+            last: Lawrence
+        -   first: Markus
+            last: Kaiser
+    lalchand_arxiv_2022:
+        type: preprint
+        doi: 10.48550/ARXIV.2209.04947
+        url: https://arxiv.org/abs/2209.04947
+        title: Kernel Learning for Explainable Climate Science
+        journal: 16th Bayesian Modelling Applications Workshop at UAI, 2022
+        publisher: arXiv
+        year: '2022'
+        author:
+        -   first: Vidhi
+            last: Lalchand
+        -   first: Kenza
+            last: Tazi
+        -   first: Talay
+            middle: M.
+            last: Cheema
+        -   first: Richard
+            middle: E.
+            last: Turner
+        -   first: Scott
+            last: Hosking
+    parthipan_2022_gmd:
+        type: preprint
+        title: 'Using Probabilistic Machine Learning to Better Model Temporal Patterns
+            in Parameterizations: a case study with the Lorenz 96 model'
+        year: '2022'
+        journal: EGUsphere
+        doi: 10.5194/egusphere-2022-912
+        author:
+        -   first: Raghul
+            last: Parthipan
+        -   first: Hannah
+            middle: M.
+            last: Christensen
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Damon
+            middle: J.
+            last: Wischik
+    amos_2022_eds:
+        type: preprint
+        title: A continuous vertically resolved ozone dataset from the fusion of chemistry
+            climate models with observations using a Bayesian neural network
+        year: '2021'
+        journal: EarthArXiv
+        doi: 10.31223/X5N91S
+        author:
+        -   first: Matt
+            last: Amos
+        -   first: Ushnish
+            last: Sengupta
+        -   first: Paul
+            last: Young
+        -   first: J.
+            middle: Scott
+            last: Hosking
+    summers_2022_climateresiliancesustainability:
+        type: article
+        title: Localized impacts and economic implications from high temperature disruption
+            days under climate change
+        journal: Climate Resilience and Sustainability
+        pages: e35
+        keywords: bias, climate, correction, disruption, economic, exceedance, temperature
+        doi: 10.1002/cli2.35
+        url: https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/cli2.35
+        eprint: https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/cli2.35
+        year: '2022'
+        author:
+        -   first: Tim
+            last: Summers
+        -   first: Erik
+            last: Mackie
+        -   first: Risa
+            last: Ueno
+        -   first: Charles
+            last: Simpson
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Tudor
+            last: Suciu
+        -   first: Andrew
+            last: Coburn
+        -   first: Emily
+            last: Shuckburgh
+    vaughan_2022_gmd:
+        type: article
+        title: Convolutional conditional neural processes for local climate downscaling
+        journal: Geoscientific Model Development
+        volume: '15'
+        year: '2022'
+        number: '1'
+        pages: 251--268
+        url: https://gmd.copernicus.org/articles/15/251/2022/
+        doi: 10.5194/gmd-15-251-2022
+        author:
+        -   first: A.
+            last: Vaughan
+        -   first: W.
+            last: Tebbutt
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: R.
+            middle: E.
+            last: Turner
+    simpson_2021_erl:
+        type: article
+        doi: 10.1088/1748-9326/ac3288
+        url: https://doi.org/10.1088/1748-9326/ac3288
+        year: '2021'
+        month: nov
+        journal: Environmental Research Letters
+        volume: '16'
+        number: '12'
+        pages: '124004'
+        title: Regional disparities and seasonal differences in climate risk to rice
+            labour
+        author:
+        -   first: Charles
+            last: Simpson
+        -   first: J
+            middle: Scott
+            last: Hosking
+        -   first: Dann
+            last: Mitchell
+        -   first: Richard
+            middle: A
+            last: Betts
+        -   first: Emily
+            last: Shuckburgh
+    eastwood_2021_trendsecologyevolution:
+        type: article
+        title: 'The Time Machine framework: monitoring and prediction of biodiversity
+            loss'
+        journal: Trends in Ecology & Evolution
+        year: '2021'
+        issn: 0169-5347
+        doi: https://doi.org/10.1016/j.tree.2021.09.008
+        url: https://www.sciencedirect.com/science/article/pii/S0169534721002597
+        media: The New Stack, HotPink, https://thenewstack.io/ai-biodiversity-time-machine-could-decide-for-uncertain-future/
+        author:
+        -   first: Niamh
+            last: Eastwood
+        -   first: William
+            middle: A.
+            last: Stubbings
+        -   first: Mohamed
+            middle: A.
+            last: '{Abou-Elwafa Abdallah}'
+        -   first: Isabelle
+            last: Durance
+        -   first: Jouni
+            last: Paavola
+        -   first: Martin
+            last: Dallimer
+        -   first: Jelena
+            middle: H.
+            last: Pantel
+        -   first: Samuel
+            last: Johnson
+        -   first: Jiarui
+            last: Zhou
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: James
+            middle: B.
+            last: Brown
+        -   first: Sami
+            last: Ullah
+        -   first: Stephan
+            last: Krause
+        -   first: David
+            middle: M.
+            last: Hannah
+        -   first: Sarah
+            middle: E.
+            last: Crawford
+        -   first: Martin
+            last: Widmann
+        -   first: Luisa
+            last: Orsini
+    andersson_2021:
+        type: article
+        title: Seasonal Arctic sea ice forecasting with probabilistic deep learning
+        year: '2021'
+        journal: Nature Communications
+        url: https://www.nature.com/articles/s41467-021-25257-4
+        preprint: https://doi.org/10.31223/X5430P
+        doi: https://doi.org/10.1038/s41467-021-25257-4
+        media: Nvidia Blog, green, https://blogs.nvidia.com/blog/2021/08/31/ai-model-predicts-sea-ice-loss/;
+            Wired, black, https://www.wired.com/story/as-the-arctic-warms-ai-forecasts-scope-out-shifting-sea-ice/;
+            Science News, blue, https://www.sciencenews.org/article/artificial-intelligence-sea-ice-forecast;
+            Eos, grey, https://eos.org/articles/could-ai-be-useful-for-arctic-communities-facing-sea-ice-loss;
+            BBC Podcast, red, https://www.bbc.co.uk/programmes/w3ct1lsl; Mail Online,
+            DarkOrange, https://www.dailymail.co.uk/sciencetech/article-9928807/British-Antarctic-Survey-builds-AI-predict-ice-loss.html
+        author:
+        -   first: Tom
+            last: Andersson
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: María
+            last: Pérez-Ortiz
+        -   first: Brooks
+            last: Paige
+        -   first: Andrew
+            last: Elliott
+        -   first: Chris
+            last: Russell
+        -   first: Stephen
+            last: Law
+        -   first: Daniel
+            middle: C.
+            last: Jones
+        -   first: Jeremy
+            last: Wilkinson
+        -   first: Tony
+            last: Phillips
+        -   first: James
+            last: Byrne
+        -   first: Steffen
+            last: Tietsche
+        -   first: Beena
+            middle: Balan
+            last: Sarojini
+        -   first: Eduardo
+            last: Blanchard-Wrigglesworth
+        -   first: Yevgeny
+            last: Aksenov
+        -   first: Rod
+            last: Downie
+        -   first: Emily
+            last: Shuckburgh
+    king_2021_joc:
+        type: article
+        title: Inhomogeneity of the Surface Air Temperature Record from Halley, Antarctica
+        journal: Journal of Climate
+        year: '2021'
+        publisher: American Meteorological Society
+        address: Boston MA, USA
+        volume: '34'
+        number: '12'
+        doi: 10.1175/JCLI-D-20-0748.1
+        pages: 4771 - 4783
+        url: https://journals.ametsoc.org/view/journals/clim/34/12/JCLI-D-20-0748.1.xml
+        author:
+        -   first: John
+            middle: C.
+            last: King
+        -   first: John
+            last: Turner
+        -   first: Steve
+            last: Colwell
+        -   first: Hua
+            last: Lu
+        -   first: Andrew
+            last: Orr
+        -   first: Tony
+            last: Phillips
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+    haupt_2021_philtrans:
+        type: article
+        title: 'Towards implementing artificial intelligence post-processing in weather
+            and climate: proposed actions from the Oxford 2019 workshop'
+        journal: 'Philosophical Transactions of the Royal Society A: Mathematical,
+            Physical and Engineering Sciences'
+        volume: '379'
+        number: '2194'
+        pages: '20200091'
+        year: '2021'
+        doi: 10.1098/rsta.2020.0091
+        url: https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2020.0091
+        eprint: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0091
+        author:
+        -   first: Sue
+            middle: Ellen
+            last: Haupt
+        -   first: William
+            last: Chapman
+        -   first: Samantha
+            middle: V.
+            last: Adams
+        -   first: Charlie
+            last: Kirkwood
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Niall
+            middle: H.
+            last: Robinson
+        -   first: Sebastian
+            last: Lerch
+        -   first: Aneesh
+            middle: C.
+            last: Subramanian
+    sengupta_2020_neurips:
+        type: article
+        title: Ensembling geophysical models with Bayesian Neural Networks
+        journal: Advances in Neural Information Processing Systems (NeurIPS) 2020
+        year: '2020'
+        url: https://arxiv.org/abs/2010.03561v1
+        doi: ''
+        author:
+        -   first: Ushnish
+            last: Sengupta
+        -   first: Matt
+            last: Amos
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Carl
+            middle: Edward
+            last: Rasmussen
+        -   first: Matthew
+            last: Juniper
+        -   first: Paul
+            middle: J.
+            last: Young
+    bruinsma_2020_icml:
+        type: article
+        title: Scalable Exact Inference in Multi-Output Gaussian Processes
+        journal: Proceedings of the 37th International Conference on Machine Learning,
+            Vienna, Austria, PMLR 119, 2020
+        year: '2020'
+        url: https://arxiv.org/abs/1911.06287
+        doi: ''
+        author:
+        -   first: Wessel
+            middle: P.
+            last: Bruinsma
+        -   first: Eric
+            last: Perim
+        -   first: Will
+            last: Tebbutt
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Arno
+            last: Solin
+        -   first: Richard
+            middle: E.
+            last: Turner
+    orr_2020_acp:
+        type: article
+        title: 'Polar stratospheric clouds initiated by mountain waves in a global
+            chemistry--climate model: a missing piece in fully modelling polar stratospheric
+            ozone depletion'
+        journal: Atmospheric Chemistry and Physics
+        volume: '20'
+        year: '2020'
+        number: '21'
+        pages: 12483--12497
+        url: https://acp.copernicus.org/articles/20/12483/2020/
+        doi: 10.5194/acp-20-12483-2020
+        author:
+        -   first: A.
+            last: Orr
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: A.
+            last: Delon
+        -   first: L.
+            last: Hoffmann
+        -   first: R.
+            last: Spang
+        -   first: T.
+            last: Moffat-Griffin
+        -   first: J.
+            last: Keeble
+        -   first: N.
+            middle: L.
+            last: Abraham
+        -   first: P.
+            last: Braesicke
+    amos_2020_acp:
+        type: article
+        title: Projecting ozone hole recovery using an ensemble of chemistry-climate
+            models weighted by model performance and independence
+        journal: Atmospheric Chemistry and Physics
+        volume: '20'
+        year: '2020'
+        number: '16'
+        pages: 9961--9977
+        url: https://acp.copernicus.org/articles/20/9961/2020/
+        doi: 10.5194/acp-20-9961-2020
+        author:
+        -   first: M.
+            last: Amos
+        -   first: P.
+            middle: J.
+            last: Young
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: J.-F.
+            last: Lamarque
+        -   first: N.
+            middle: L.
+            last: Abraham
+        -   first: H.
+            last: Akiyoshi
+        -   first: A.
+            middle: T.
+            last: Archibald
+        -   first: S.
+            last: Bekki
+        -   first: M.
+            last: Deushi
+        -   first: P.
+            last: J\"ockel
+        -   first: D.
+            last: Kinnison
+        -   first: O.
+            last: Kirner
+        -   first: M.
+            last: Kunze
+        -   first: M.
+            last: Marchand
+        -   first: D.
+            middle: A.
+            last: Plummer
+        -   first: D.
+            last: Saint-Martin
+        -   first: K.
+            last: Sudo
+        -   first: S.
+            last: Tilmes
+        -   first: Y.
+            last: Yamashita
+    bracegirdle_2020_earthspacesci:
+        type: article
+        title: Improvements in Circumpolar Southern Hemisphere Extratropical Atmospheric
+            Circulation in CMIP6 Compared to CMIP5
+        journal: Earth and Space Science
+        volume: n/a
+        number: n/a
+        year: '2020'
+        pages: e2019EA001065
+        doi: 10.1029/2019EA001065
+        url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019EA001065
+        eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019EA001065
+        author:
+        -   first: T.
+            middle: J.
+            last: Bracegirdle
+        -   first: C.
+            middle: R.
+            last: Holmes
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: M.
+            last: Osman
+        -   first: M.
+            last: Patterson
+        -   first: T.
+            last: Rackow
+    mccrystall_2020_jclim:
+        type: article
+        title: The impact of changes in tropical sea surface temperatures over 1979-2012
+            on Northern hemisphere high latitude climate
+        journal: Journal of Climate
+        volume: '0'
+        number: '0'
+        pages: 'null'
+        year: '2020'
+        doi: 10.1175/JCLI-D-19-0456.1
+        url: https://doi.org/10.1175/JCLI-D-19-0456.1
+        author:
+        -   first: Michelle
+            middle: R.
+            last: McCrystall
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Ian
+            middle: P.
+            last: White
+        -   first: Amanda
+            middle: C.
+            last: Maycock
+    kapetas_2019_iconhic:
+        type: article
+        title: 'Modelling Groundwater - Surface Water Interactions Under Climate Change
+            Scenarios: insights from Axios Delta, Greece'
+        journal: 'ICONHIC 2019: 2nd International Conference on Natural Hazards &
+            Infrastructure, Chania, Greece'
+        year: '2019'
+        url: https://www.researchgate.net/profile/K_Voudouris/publication/334130545_Modelling_Groundwater_-Surface_Water_Interactions_Under_Climate_Change_Scenarios_insights_from_Axios_Delta_Greece/links/5d19a640458515c11c06bd23/Modelling-Groundwater-Surface-Water-Interactions-Under-Climate-Change-Scenarios-insights-from-Axios-Delta-Greece.pdf
+        doi: ''
+        author:
+        -   first: L.
+            last: Kapetas
+        -   first: N.
+            last: Kazakis
+        -   first: K.
+            last: Voudouris
+        -   first: Alejandro
+            middle: Tello
+            last: Martinez
+        -   first: J.
+            middle: Scott
+            last: Hosking
+    bannister_2019_jclim:
+        type: article
+        title: Bias correction of high-resolution regional climate model precipitation
+            output gives the best estimates of precipitation in Himalayan catchments
+        journal: 'Journal of Geophysical Research: Atmospheres'
+        volume: n/a
+        number: n/a
+        pages: ''
+        year: '2019'
+        doi: 10.1029/2019JD030804
+        url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030804
+        eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019JD030804
+        author:
+        -   first: Daniel
+            last: Bannister
+        -   first: Andrew
+            last: Orr
+        -   first: Sanjay
+            middle: K.
+            last: Jain
+        -   first: Ian
+            middle: P.
+            last: Holman
+        -   first: Andrea
+            last: Momblanch
+        -   first: Tony
+            last: Phillips
+        -   first: Adebayo
+            middle: J.
+            last: Adeloye
+        -   first: Boris
+            last: Snapir
+        -   first: Toby
+            middle: W.
+            last: Waine
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Clare
+            last: Allen-Sader
+    turner_2019_grl:
+        type: article
+        title: The Dominant Role of Extreme Precipitation Events in Antarctic Snowfall
+            Variability
+        journal: Geophysical Research Letters
+        volume: '46'
+        number: '6'
+        pages: 3502-3511
+        year: '2019'
+        doi: 10.1029/2018GL081517
+        url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL081517
+        media: Phys.org, black, https://phys.org/news/2019-03-antarctic-snowfall-dominated-extreme-snowstorms.html
+        author:
+        -   first: John
+            last: Turner
+        -   first: Tony
+            last: Phillips
+        -   first: Meloth
+            last: Thamban
+        -   first: Waliur
+            last: Rahaman
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+        -   first: Jonathan
+            middle: D.
+            last: Wille
+        -   first: Vincent
+            last: Favier
+        -   first: V.
+            middle: Holly L.
+            last: Winton
+        -   first: Elizabeth
+            last: Thomas
+        -   first: Zaomin
+            last: Wang
+        -   first: Michiel
+            prelast: van den
+            last: Broeke
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Tom
+            last: Lachlan-Cope
+    deb_2018_grl:
+        type: article
+        title: Summer Drivers of Atmospheric Variability Affecting Ice Shelf Thinning
+            in the Amundsen Sea Embayment, West Antarctica
+        journal: Geophysical Research Letters
+        year: '2018'
+        volume: '45'
+        number: '9'
+        pages: 4124-4133
+        doi: 10.1029/2018GL077092
+        author:
+        -   first: Pranab
+            last: Deb
+        -   first: Andrew
+            last: Orr
+        -   first: David
+            middle: H.
+            last: Bromwich
+        -   first: Julien
+            middle: P.
+            last: Nicolas
+        -   first: John
+            last: Turner
+        -   first: J.
+            middle: Scott
+            last: Hosking
+    hosking_2018_erl:
+        type: article
+        title: Changes in European wind energy generation potential within a 1.5C
+            warmer world
+        journal: Environmental Research Letters
+        year: '2018'
+        volume: '13'
+        number: '5'
+        pages: 1--9
+        doi: 10.1088/1748-9326/aabf78
+        media: Carbon Brief, blue, https://www.carbonbrief.org/uk-onshore-wind-energy-potential-could-rise-by-10-with-1-5c-warming;
+            Independent, red, https://www.independent.co.uk/climate-change/news/wind-power-uk-global-warming-climate-change-british-antarctic-survey-a8354956.html;
+            Phys.org, black, https://phys.org/news/2018-05-european-energy-potential-degree-warmer.html;
+            Mail Online, DarkOrange, https://www.dailymail.co.uk/sciencetech/article-5736189/Global-warming-make-UK-large-parts-northern-Europe-far-windier.html;
+            Treehugger, green, https://www.treehugger.com/climate-change-could-bring-stronger-winds-more-wind-power-4857464
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: D.
+            last: MacLeod
+        -   first: T.
+            last: Phillips
+        -   first: C.
+            middle: R.
+            last: Holmes
+        -   first: P.
+            last: Watson
+        -   first: E.
+            last: Shuckburgh
+        -   first: D.
+            last: Mitchell
+    king_2017_asl:
+        type: article
+        title: Causes of the Antarctic region record high temperature at Signy Island,
+            30th January 1982
+        journal: Atmospheric Science Letters
+        year: '2017'
+        volume: '18'
+        number: '12'
+        pages: 491-496
+        doi: 10.1002/asl.793
+        author:
+        -   first: J.
+            middle: C.
+            last: King
+        -   first: D.
+            last: Bannister
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: S.
+            middle: R.
+            last: Colwell
+    hosking_2017_grl:
+        type: article
+        title: Accumulation in coastal West Antarctic ice core records and the role
+            of cyclone activity
+        journal: Geophysical Research Letters
+        year: '2017'
+        volume: '44'
+        number: '17'
+        pages: 9084-9092
+        doi: 10.1002/2017GL074722
+        author:
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Ryan
+            last: Fogt
+        -   first: Elizabeth
+            middle: R.
+            last: Thomas
+        -   first: Vahid
+            last: Moosavi
+        -   first: Tony
+            last: Phillips
+        -   first: Jack
+            last: Coggins
+        -   first: David
+            last: Reusch
+    bannister_2017_joc:
+        type: article
+        title: An Assessment of Recent and Future Temperature Change over the Sichuan
+            Basin, China, Using CMIP5 Climate Models
+        journal: Journal of Climate
+        volume: '30'
+        number: '17'
+        pages: 6701-6722
+        year: '2017'
+        doi: 10.1175/JCLI-D-16-0536.1
+        author:
+        -   first: Daniel
+            last: Bannister
+        -   first: Michael
+            last: Herzog
+        -   first: Hans-F.
+            last: Graf
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: C.
+            middle: Alan
+            last: Short
+    turner_2017_grl:
+        type: article
+        title: Unprecedented springtime retreat of Antarctic sea ice in 2016
+        journal: Geophysical Research Letters
+        volume: '44'
+        number: '13'
+        pages: 6868--6875
+        year: '2017'
+        doi: 10.1002/2017GL073656
+        media: Phys.org, black, https://phys.org/news/2017-06-storms-massive-antarctic-sea-ice.html
+        author:
+        -   first: John
+            last: Turner
+        -   first: Tony
+            last: Phillips
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: James
+            middle: O.
+            last: Pope
+        -   first: Thomas
+            middle: J.
+            last: Bracegirdle
+        -   first: Pranab
+            last: Deb
+    moffatgriffin_2017_aas:
+        type: article
+        title: 3rd ANtarctic Gravity Wave Instrument Network (ANGWIN) science workshop
+        journal: Advances in Atmospheric Sciences
+        year: '2017'
+        volume: '34'
+        number: '1'
+        pages: 1--3
+        doi: 10.1007/s00376-016-6197-5
+        author:
+        -   first: Tracy
+            last: Moffat-Griffin
+        -   first: Mike
+            middle: J.
+            last: Taylor
+        -   first: Takuji
+            last: Nakamura
+        -   first: Andrew
+            middle: J.
+            last: Kavanagh
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Andrew
+            last: Orr
+    turner_2017_ijc:
+        type: article
+        title: Variability and trends in the Southern Hemisphere high latitude, quasi-stationary
+            planetary waves
+        journal: International Journal of Climatology
+        volume: '37'
+        number: '5'
+        pages: 2325--2336
+        year: '2017'
+        doi: 10.1002/joc.4848
+        author:
+        -   first: John
+            last: Turner
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Thomas
+            middle: J.
+            last: Bracegirdle
+        -   first: Tony
+            last: Phillips
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+    turner_2016_nature:
+        type: article
+        title: Absence of 21st century warming on Antarctic Peninsula consistent with
+            natural variability
+        journal: Nature
+        year: '2016'
+        pages: 411--415
+        volume: '535'
+        doi: 10.1038/nature18645
+        media: Carbon Brief, blue, https://www.carbonbrief.org/natural-forces-overpowering-antarctic-peninsula-warming;
+            Washington Post, black, https://www.washingtonpost.com/news/energy-environment/wp/2016/07/20/the-antarctic-peninsula-is-cooling-but-climate-skeptics-shouldnt-get-too-excited/
+        author:
+        -   first: John
+            last: Turner
+        -   first: Hua
+            last: Lu
+        -   first: Ian
+            last: White
+        -   first: John
+            last: King
+        -   first: Tony
+            last: Phillips
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Thomas
+            middle: J.
+            last: Bracegirdle
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+        -   first: Robert
+            last: Mulvaney
+        -   first: Pranab
+            last: Deb
+    deb_2016_jgr:
+        type: article
+        title: An assessment of the Polar Weather Research and Forecasting (WRF) model
+            representation of near-surface meteorological variables over West Antarctica
+        journal: 'Journal of Geophysical Research: Atmospheres'
+        year: '2016'
+        volume: '121'
+        number: '4'
+        pages: 1532-1548
+        doi: 10.1002/2015JD024037
+        author:
+        -   first: Pranab
+            last: Deb
+        -   first: Andrew
+            last: Orr
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Tony
+            last: Phillips
+        -   first: John
+            last: Turner
+        -   first: Daniel
+            last: Bannister
+        -   first: James
+            middle: O.
+            last: Pope
+        -   first: Steve
+            last: Colwell
+    hosking_2016_grl:
+        type: article
+        title: 'Future circulation changes off West Antarctica: Sensitivity of the
+            Amundsen Sea Low to projected anthropogenic forcing'
+        journal: Geophysical Research Letters
+        year: '2016'
+        volume: '43'
+        number: '1'
+        pages: 367-376
+        doi: 10.1002/2015GL067143
+        author:
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Andrew
+            last: Orr
+        -   first: Thomas
+            middle: J.
+            last: Bracegirdle
+        -   first: John
+            last: Turner
+    raphael_2016_bams:
+        type: article
+        title: 'The Amundsen Sea Low: Variability, Change, and Impact on Antarctic
+            Climate'
+        journal: Bulletin of the American Meteorological Society
+        volume: '97'
+        number: '1'
+        pages: 111-121
+        year: '2016'
+        doi: 10.1175/BAMS-D-14-00018.1
+        author:
+        -   first: M.
+            middle: N.
+            last: Raphael
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: J.
+            last: Turner
+        -   first: R.
+            middle: L.
+            last: Fogt
+        -   first: D.
+            last: Schneider
+        -   first: D.
+            middle: A.
+            last: Dixon
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: J.
+            middle: M.
+            last: Jones
+        -   first: W.
+            middle: R.
+            last: Hobbs
+    turner_2016_climdyn:
+        type: article
+        title: Antarctic sea ice increase dominated by intrinsic variability of the
+            Amundsen Sea Low
+        journal: Climate Dynamics
+        year: '2016'
+        volume: '46'
+        number: '7'
+        pages: 2391--2402
+        doi: 10.1007/s00382-015-2708-9
+        author:
+        -   first: John
+            last: Turner
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Gareth
+            middle: J.
+            last: Marshall
+        -   first: Tony
+            last: Phillips
+        -   first: Thomas
+            middle: J.
+            last: Bracegirdle
+    thomas_2015_grl:
+        type: article
+        title: Twentieth century increase in snowfall in coastal West Antarctica
+        journal: Geophysical Research Letters
+        volume: '42'
+        number: '21'
+        pages: 9387--9393
+        year: '2015'
+        doi: 10.1002/2015GL065750
+        media: Indian Express, red, https://indianexpress.com/article/trending/trending-globally/west-antarctic-coastal-snow-rose-30-per-cent-in-20th-century/
+        author:
+        -   first: E.
+            middle: R.
+            last: Thomas
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: R.
+            middle: R.
+            last: Tuckwell
+        -   first: R.
+            middle: A.
+            last: Warren
+        -   first: E.
+            middle: C.
+            last: Ludlow
+    turner_2015_philtransa:
+        type: article
+        title: Recent Changes in Antarctic Sea Ice
+        journal: 'Philosophical Transactions of the Royal Society of London A: Mathematical,
+            Physical and Engineering Sciences'
+        volume: '373'
+        number: '2045'
+        year: '2015'
+        doi: 10.1098/rsta.2014.0163
+        author:
+        -   first: J
+            last: Turner
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: T.
+            middle: J.
+            last: Bracegirdle
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: T.
+            last: Phillips
+    chemel_2015_asl:
+        type: article
+        title: 'Sensitivity of tropical deep convection in global models: effects
+            of horizontal resolution, surface constraints and 3D atmospheric nudging'
+        journal: Atmospheric Science Letters
+        year: '2015'
+        volume: '16'
+        number: '2'
+        pages: 148-154
+        doi: 10.1002/asl2.540
+        author:
+        -   first: C.
+            last: Chemel
+        -   first: M.
+            middle: R.
+            last: Russo
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: P.
+            middle: J.
+            last: Telford
+        -   first: J.
+            middle: A.
+            last: Pyle
+    orr_2015_acp:
+        type: article
+        title: Inclusion of mountain-wave-induced cooling for the formation of PSCs
+            over the Antarctic Peninsula in a chemistry-climate model
+        journal: Atmospheric Chemistry and Physics
+        volume: '15'
+        year: '2015'
+        number: '2'
+        pages: 1071--1086
+        pdf: http://www.atmos-chem-phys.net/15/1071/2015/acp-15-1071-2015.pdf
+        doi: 10.5194/acp-15-1071-2015
+        author:
+        -   first: A.
+            last: Orr
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: L.
+            last: Hoffmann
+        -   first: J.
+            last: Keeble
+        -   first: S.
+            middle: M.
+            last: Dean
+        -   first: H.
+            middle: K.
+            last: Roscoe
+        -   first: N.
+            middle: L.
+            last: Abraham
+        -   first: S.
+            last: Vosper
+        -   first: P.
+            last: Braesicke
+    hosking_2015_asl:
+        type: article
+        title: Orographic disturbances of surface winds over the shelf waters adjacent
+            to South Georgia
+        journal: Atmospheric Science Letters
+        year: '2015'
+        volume: '16'
+        number: '1'
+        pages: 50-55
+        doi: 10.1002/asl2.519
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: D.
+            last: Bannister
+        -   first: A.
+            last: Orr
+        -   first: J.
+            last: King
+        -   first: E.
+            last: Young
+        -   first: T.
+            last: Phillips
+    orr_2014_qjrms:
+        type: article
+        title: Met Office Unified Model high resolution simulations of a strong wind
+            event in Antarctica
+        journal: Quarterly Journal of the Royal Meteorological Society
+        year: '2014'
+        volume: '140'
+        number: '684'
+        pages: 2287-2297
+        doi: 10.1002/qj.2296
+        author:
+        -   first: A.
+            last: Orr
+        -   first: T.
+            last: Phillips
+        -   first: S.
+            last: Webster
+        -   first: A.
+            last: Elvidge
+        -   first: M.
+            last: Weeks
+        -   first: S.
+            last: Hosking
+        -   first: J.
+            last: Turner
+    bracegirdle_2014_climdyn:
+        type: article
+        title: Sources of uncertainty in projections of twenty-first century westerly
+            wind changes over the Amundsen Sea, West Antarctica, in CMIP5 climate
+            models
+        journal: Climate Dynamics
+        year: '2014'
+        volume: '43'
+        number: 7-8
+        pages: 2093-2104
+        doi: 10.1007/s00382-013-2032-1
+        author:
+        -   first: T.J.
+            last: Bracegirdle
+        -   first: J.
+            last: Turner
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: T.
+            last: Phillips
+    turner_2013_grl:
+        type: article
+        title: Temporal and spatial evolution of the Antarctic sea ice prior to the
+            September 2012 record maximum extent
+        journal: Geophysical Research Letters
+        year: '2013'
+        volume: '40'
+        number: '22'
+        pages: 5894-5898
+        doi: 10.1002/2013GL058371
+        author:
+        -   first: J.
+            last: Turner
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: T.
+            last: Phillips
+        -   first: G.
+            middle: J.
+            last: Marshall
+    hosking_2013_joc:
+        type: article
+        title: The influence of the Amundsen-Bellingshausen Seas Low on the climate
+            of West Antarctica and its representation in coupled climate model simulations
+        journal: Journal of Climate
+        volume: '26'
+        year: '2013'
+        number: '17'
+        pages: 6633--6648
+        doi: 10.1175/JCLI-D-12-00813.1
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: A.
+            last: Orr
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: J.
+            last: Turner
+        -   first: T.
+            last: Phillips
+    turner_2013_ijc:
+        type: article
+        title: The Amundsen Sea Low
+        journal: International Journal of Climatology
+        year: '2013'
+        volume: '33'
+        number: '7'
+        pages: 1818--1829
+        doi: 10.1002/joc.3558
+        author:
+        -   first: J.
+            last: Turner
+        -   first: T.
+            last: Phillips
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: A.
+            last: Orr
+    barrand_2013_jgr:
+        type: article
+        title: Trends in Antarctic Peninsula surface melting conditions from observations
+            and regional climate modelling
+        journal: 'Journal of Geophysical Research: Earth Surface'
+        volume: '118'
+        number: '1'
+        pages: 315-330
+        year: '2013'
+        doi: 10.1029/2012JF002559
+        author:
+        -   first: N.
+            middle: E.
+            last: Barrand
+        -   first: D.
+            last: Vaughan
+        -   first: N.
+            last: Steiner
+        -   first: M.
+            last: Tedesco
+        -   first: P.
+            last: Kuipers Munneke
+        -   first: M.
+            prelast: van den
+            last: Broeke
+        -   first: J.
+            middle: S.
+            last: Hosking
+    turner_2013_joc:
+        type: article
+        title: An Initial Assessment of Antarctic Sea Ice Extent in the CMIP5 Models
+        journal: Journal of Climate
+        volume: '26'
+        year: '2013'
+        number: '5'
+        pages: 1473--1484
+        doi: 10.1175/JCLI-D-12-00068.1
+        author:
+        -   first: J.
+            last: Turner
+        -   first: T.J.
+            last: Bracegirdle
+        -   first: T.
+            last: Phillips
+        -   first: G.
+            middle: J.
+            last: Marshall
+        -   first: J.
+            middle: S.
+            last: Hosking
+    orr_2012_joc:
+        type: article
+        title: Strong dynamical modulation of the cooling of the polar stratosphere
+            associated with the Antarctic ozone hole
+        journal: Journal of Climate
+        volume: '26'
+        year: '2013'
+        number: '2'
+        pages: 662--668
+        doi: 10.1175/JCLI-D-12-00480.1
+        author:
+        -   first: A.
+            last: Orr
+        -   first: T.
+            middle: J.
+            last: Bracegirdle
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: W.
+            last: Feng
+        -   first: H.
+            middle: K.
+            last: Roscoe
+        -   first: J.
+            middle: D.
+            last: Haigh
+    orr_2012_jas:
+        type: article
+        title: Possible Dynamical Mechanisms for Southern Hemisphere Climate Change
+            due to the Ozone Hole
+        journal: Journal of the Atmospheric Sciences
+        volume: '69'
+        year: '2012'
+        number: '10'
+        pages: 2917--2932
+        doi: 10.1175/JAS-D-11-0210.1
+        author:
+        -   first: A.
+            last: Orr
+        -   first: T.
+            middle: J.
+            last: Bracegirdle
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: T.
+            last: Jung
+        -   first: J.
+            middle: D.
+            last: Haigh
+        -   first: T.
+            last: Phillips
+        -   first: W.
+            last: Feng
+    hosking_2012_acp:
+        type: article
+        title: Tropical convective transport and the Walker circulation
+        journal: Atmospheric Chemistry and Physics
+        volume: '12'
+        year: '2012'
+        number: '20'
+        pages: 9791--9797
+        doi: 10.5194/acp-12-9791-2012
+        pdf: http://www.atmos-chem-phys.net/12/9791/2012/acp-12-9791-2012.pdf
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: M.
+            middle: R.
+            last: Russo
+        -   first: P.
+            last: Braesicke
+        -   first: J.
+            middle: A.
+            last: Pyle
+    hoyle_2011_acp:
+        type: article
+        title: 'Representation of tropical deep convection in atmospheric models -
+            Part 2: Tracer transport'
+        journal: Atmospheric Chemistry and Physics
+        volume: '11'
+        year: '2011'
+        number: '15'
+        pages: 8103--8131
+        pdf: http://www.atmos-chem-phys.net/11/8103/2011/acp-11-8103-2011.pdf
+        doi: 10.5194/acp-11-8103-2011
+        author:
+        -   first: C.
+            middle: R.
+            last: Hoyle
+        -   first: V.
+            last: Mar\'ecal
+        -   first: M.
+            middle: R.
+            last: Russo
+        -   first: G.
+            last: Allen
+        -   first: J.
+            last: Arteta
+        -   first: C.
+            last: Chemel
+        -   first: M.
+            middle: P.
+            last: Chipperfield
+        -   first: F.
+            last: D'Amato
+        -   first: O.
+            last: Dessens
+        -   first: W.
+            last: Feng
+        -   first: J.
+            middle: F.
+            last: Hamilton
+        -   first: N.
+            middle: R. P.
+            last: Harris
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: A.
+            middle: C.
+            last: Lewis
+        -   first: O.
+            last: Morgenstern
+        -   first: T.
+            last: Peter
+        -   first: J.
+            middle: A.
+            last: Pyle
+        -   first: T.
+            last: Reddmann
+        -   first: N.
+            middle: A. D.
+            last: Richards
+        -   first: P.
+            middle: J.
+            last: Telford
+        -   first: W.
+            last: Tian
+        -   first: S.
+            last: Viciani
+        -   first: A.
+            last: Volz-Thomas
+        -   first: O.
+            last: Wild
+        -   first: X.
+            last: Yang
+        -   first: G.
+            last: Zeng
+    russo_2011_acp:
+        type: article
+        title: 'Representation of tropical deep convection in atmospheric models -
+            Part 1: Meteorology and comparison with satellite observations'
+        journal: Atmospheric Chemistry and Physics
+        volume: '11'
+        year: '2011'
+        number: '6'
+        pages: 2765--2786
+        pdf: http://www.atmos-chem-phys.org/11/2765/2011/acp-11-2765-2011.pdf
+        doi: 10.5194/acp-11-2765-2011
+        author:
+        -   first: M.
+            middle: R.
+            last: Russo
+        -   first: V.
+            last: Mar\'ecal
+        -   first: C.
+            middle: R.
+            last: Hoyle
+        -   first: J.
+            last: Arteta
+        -   first: C.
+            last: Chemel
+        -   first: M.
+            middle: P.
+            last: Chipperfield
+        -   first: O.
+            last: Dessens
+        -   first: W.
+            last: Feng
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: P.
+            middle: J.
+            last: Telford
+        -   first: O.
+            last: Wild
+        -   first: X.
+            last: Yang
+        -   first: J.
+            middle: A.
+            last: Pyle
+    hosking_2010_acp:
+        type: article
+        title: Modelling deep convection and its impacts on the tropical tropopause
+            layer
+        journal: Atmospheric Chemistry and Physics
+        volume: '10'
+        year: '2010'
+        number: '22'
+        pages: 11175--11188
+        pdf: http://www.atmos-chem-phys.net/10/11175/2010/acp-10-11175-2010.pdf
+        doi: 10.5194/acp-10-11175-2010
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: M.
+            middle: R.
+            last: Russo
+        -   first: P.
+            last: Braesicke
+        -   first: J.
+            middle: A.
+            last: Pyle
+    spatialfinance_report_wwf_worldbank:
+        type: techreport
+        title: 'Spatial Finance: Challenges and Opportunities in a Changing World'
+        year: '2020'
+        institution: WWF and World Bank Group
+        pdf: https://www.wwf.org.uk/sites/default/files/2020-12/Spatial%20Finance_%20Challenges%20and%20Opportunities_Final.pdf
+        author:
+        -   first: David
+            middle: J.
+            last: Patterson!
+    geoengineering_royalsociety:
+        type: techreport
+        title: Geoengineering
+        year: '2018'
+        institution: Global Environmental Research Committee (GERC), Royal Society
+        pdf: https://royalsociety.org/-/media/policy/topics/energy-environment-climate/gerc-geoengineering-report.pdf?la=en-GB&hash=A901C6D4434AE240E6836B18083415D0
+        author:
+        -   first: Eric
+            last: Wolff!
+    airquality_royalsociety:
+        type: techreport
+        title: Air quality
+        year: '2017'
+        institution: Global Environmental Research Committee (GERC), Royal Society
+        pdf: https://royalsociety.org/-/media/policy/topics/energy-environment-climate/gerc-air-quality-report.pdf?la=en-GB&hash=21DBB223960A60E61D6FB0D40D4351C1
+        author:
+        -   first: Eric
+            last: Wolff!
+    biodiversity_royalsociety:
+        type: techreport
+        title: Biodiversity
+        year: '2017'
+        institution: Global Environmental Research Committee (GERC), Royal Society
+        pdf: https://royalsociety.org/-/media/policy/topics/energy-environment-climate/gerc-biodiversity-report.pdf?la=en-GB&hash=2C3FD6C62106B60924F10E6B0DEEE67F
+        author:
+        -   first: Eric
+            last: Wolff!
+    naturalresources_royalsociety:
+        type: techreport
+        title: Natural Resources
+        year: '2016'
+        institution: Global Environmental Research Committee (GERC), Royal Society
+        pdf: https://royalsociety.org/-/media/policy/topics/energy-environment-climate/gerc-naturalres-food-report.pdf?la=en-GB&hash=54A9DBF67437B62966A6CD8B425A5D17
+        author:
+        -   first: Eric
+            last: Wolff!
+    climate_royalsociety:
+        type: techreport
+        title: Climate
+        year: '2016'
+        institution: Global Environmental Research Committee (GERC), Royal Society
+        pdf: https://royalsociety.org/-/media/policy/topics/energy-environment-climate/gerc-climate-report.pdf?la=en-GB&hash=14C82B44FAE7BFABDA959AC81BC0ED5E
+        author:
+        -   first: Eric
+            last: Wolff!
+    ccfcs_ipcc:
+        type: techreport
+        title: 'Key Points from the IPCC WGI Fifth Assessment Report. Climate Change
+            2013: The Physical Science Basis'
+        year: '2013'
+        institution: Cambridge Centre for Climate Science (CCfCS)
+        pdf: https://www.climatescience.cam.ac.uk/docs/ccfcs-ipcc-key-points-pdf
+        author:
+        -   first: Amanda
+            last: Maycock
+        -   first: Scott
+            last: Hosking
+        -   first: Tom
+            last: Bracegirdle
+    hosking_2010_thesis:
+        type: phdthesis
+        title: The impact of deep convection on the structure of, and transport through,
+            the tropical tropopause layer
+        school: University of Cambridge
+        address: Cambridge, UK
+        month: March
+        year: '2010'
+        url: http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.604249
+        author:
+        -   first: J.
+            middle: S.
+            last: Hosking
+    hosking_asl_index:
+        type: datasets
+        title: Amundsen Sea Low (ASL) index
+        url: https://scotthosking.com/asl_index
+        author:
+        -   first: J.
+            middle: Scott
+            last: Hosking
+    andersson_icenet1:
+        type: datasets
+        title: 'Forecasts, neural networks, and results from the paper: ''Seasonal
+            Arctic sea ice forecasting with probabilistic deep learning'''
+        url: https://data.bas.ac.uk/full-record.php?id=GB/NERC/BAS/PDC/01526
+        author:
+        -   first: Tom
+            last: Andersson
+        -   first: J.
+            middle: Scott
+            last: Hosking!
