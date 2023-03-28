@@ -133,6 +133,36 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    bruinsma2023autoregressive:
+        type: article
+        title: Autoregressive Conditional Neural Processes
+        year: '2023'
+        doi: 10.48550/arXiv.2303.14468
+        journal: 11th International Conference on Learning Representations (ICLR 2023)
+        author:
+        -   first: Wessel
+            middle: P.
+            last: Bruinsma
+        -   first: Stratis
+            last: Markou
+        -   first: James
+            last: Requiema
+        -   first: Andrew
+            middle: Y. K.
+            last: Foong
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Anna
+            last: Vaughan
+        -   first: Anthony
+            last: Buonomo
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Richard
+            middle: E.
+            last: Turner
     summers_2022_climateresiliancesustainability:
         type: article
         title: Localized impacts and economic implications from high temperature disruption
@@ -1540,6 +1570,29 @@ entries:
         -   first: J.
             middle: A.
             last: Pyle
+    alden_conner_2023_7712969:
+        type: techreport
+        title: Tackling climate change with data science and AI
+        month: March
+        year: '2023'
+        publisher: Zenodo
+        doi: 10.5281/zenodo.7712969
+        url: https://doi.org/10.5281/zenodo.7712969
+        institution: The Alan Turing Institute
+        pdf: https://zenodo.org/record/7712969/files/turing_asg_whitepaper_climatechange.pdf?download=1
+        author:
+        -   first: Alden
+            last: Conner
+        -   first: Scott
+            last: Hosking
+        -   first: James
+            last: Lloyd
+        -   first: Achintya
+            last: Rao
+        -   first: Gavin
+            last: Shaddick
+        -   first: Malvika
+            last: Sharan
     spatialfinance_report_wwf_worldbank:
         type: techreport
         title: 'Spatial Finance: Challenges and Opportunities in a Changing World'

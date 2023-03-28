@@ -167,13 +167,15 @@ Write html file
 with open(outfile, 'w') as file:
 
     file.write('---\n')
+    file.write('layout: page\n')
     file.write('permalink: /'+outfile.split('.')[0]+'\n')
     file.write('title: "Publications"\n')
+    file.write('description: 2010 - present\n')
     file.write('excerpt: "J. Scott Hosking - Publications"\n')
-    file.write('toc: True\n')
+    file.write('nav-menu: true\n')
+    file.write('image: assets/images/wwf_spatial_finance.jpg\n')
     file.write('last_modified_at: '+datetime.now().strftime('%Y-%m-%d')+'\n')
     file.write('---\n')
-
 
     '''
     Links:
@@ -191,7 +193,7 @@ with open(outfile, 'w') as file:
         # file.write( '<sub>' +orcid_part+ ' | ' +scopus_part+ '</sub>')
         file.write('\n')
 
-    file.write( '<br><br> <a href="https://www.nature.com/collections/afchdbedbe"><img src="images/nat_comms_top25.jpg"></a>' )
+    file.write( '<br><br> <a href="https://www.nature.com/collections/afchdbedbe"><img src="assets/images/nat_comms_top25.jpg"></a>' )
 
     '''
     Preprint:
