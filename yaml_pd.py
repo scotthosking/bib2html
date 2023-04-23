@@ -172,7 +172,7 @@ with open(outfile, 'w') as file:
     file.write('title: "Publications"\n')
     file.write('description: 2010 - present\n')
     file.write('excerpt: "J. Scott Hosking - Publications"\n')
-    file.write('nav-menu: true\n')
+    if full_author_info: file.write('nav-menu: true\n')
     file.write('image: assets/images/wwf_spatial_finance.jpg\n')
     file.write('last_modified_at: '+datetime.now().strftime('%Y-%m-%d')+'\n')
     file.write('---\n')
