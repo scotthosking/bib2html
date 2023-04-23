@@ -1,13 +1,10 @@
 entries:
-    andersson_2022_convgnp:
+    andersson_2023_envdatasci:
         type: preprint
-        doi: 10.48550/ARXIV.2211.10381
-        url: https://arxiv.org/abs/2211.10381
-        title: Active Learning with Convolutional Gaussian Neural Processes for Environmental
-            Sensor Placement
-        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
-            and Decision-making Systems
-        year: '2022'
+        title: Environmental Sensor Placement with Convolutional Gaussian Neural Processes
+        year: '2023'
+        journal: Climate Informatics 2023 special issue of Environmental Data Science
+        doi: 10.48550/arXiv.2211.10381
         author:
         -   first: Tom
             middle: R.
@@ -26,6 +23,7 @@ entries:
         -   first: Anna-Louise
             last: Ellis
         -   first: Matthew
+            middle: A.
             last: Lazzara
         -   first: Daniel
             middle: C.
