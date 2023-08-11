@@ -1,39 +1,4 @@
 entries:
-    andersson_2023_envdatasci:
-        type: preprint
-        title: Environmental Sensor Placement with Convolutional Gaussian Neural Processes
-        year: '2023'
-        journal: Climate Informatics 2023 special issue of Environmental Data Science
-        doi: 10.48550/arXiv.2211.10381
-        author:
-        -   first: Tom
-            middle: R.
-            last: Andersson
-        -   first: Wessel
-            middle: P.
-            last: Bruinsma
-        -   first: Stratis
-            last: Markou
-        -   first: James
-            last: Requeima
-        -   first: Alejandro
-            last: Coca-Castro
-        -   first: Anna
-            last: Vaughan
-        -   first: Anna-Louise
-            last: Ellis
-        -   first: Matthew
-            middle: A.
-            last: Lazzara
-        -   first: Daniel
-            middle: C.
-            last: Jones
-        -   first: J.
-            middle: Scott
-            last: Hosking
-        -   first: Richard
-            middle: E.
-            last: Turner
     thodoroff_2022_mficesheet:
         type: preprint
         doi: .
@@ -95,25 +60,6 @@ entries:
             last: Turner
         -   first: Scott
             last: Hosking
-    parthipan_2022_gmd:
-        type: preprint
-        title: 'Using Probabilistic Machine Learning to Better Model Temporal Patterns
-            in Parameterizations: a case study with the Lorenz 96 model'
-        year: '2022'
-        journal: EGUsphere
-        doi: 10.5194/egusphere-2022-912
-        author:
-        -   first: Raghul
-            last: Parthipan
-        -   first: Hannah
-            middle: M.
-            last: Christensen
-        -   first: J.
-            middle: Scott
-            last: Hosking
-        -   first: Damon
-            middle: J.
-            last: Wischik
     amos_2022_eds:
         type: preprint
         title: A continuous vertically resolved ozone dataset from the fusion of chemistry
@@ -131,6 +77,64 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    andersson_2023_envdatasci:
+        type: article
+        title: Environmental sensor placement with convolutional Gaussian neural processes
+        volume: '2'
+        doi: 10.1017/eds.2023.22
+        journal: Environmental Data Science
+        year: '2023'
+        pages: e32
+        author:
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Wessel
+            middle: P.
+            last: Bruinsma
+        -   first: Stratis
+            last: Markou
+        -   first: James
+            last: Requeima
+        -   first: Alejandro
+            last: Coca-Castro
+        -   first: Anna
+            last: Vaughan
+        -   first: Anna-Louise
+            last: Ellis
+        -   first: Matthew
+            middle: A.
+            last: Lazzara
+        -   first: Dani
+            last: Jones
+        -   first: Scott
+            last: Hosking
+        -   first: Richard
+            middle: E
+            last: Turner
+    parthipan_2023_gmd:
+        type: article
+        title: 'Using probabilistic machine learning to better model temporal patterns
+            in parameterizations: a case study with the Lorenz 96 model'
+        journal: Geoscientific Model Development
+        volume: '16'
+        year: '2023'
+        number: '15'
+        pages: 4501--4519
+        url: https://gmd.copernicus.org/articles/16/4501/2023/
+        doi: 10.5194/gmd-16-4501-2023
+        author:
+        -   first: R.
+            last: Parthipan
+        -   first: H.
+            middle: M.
+            last: Christensen
+        -   first: J.
+            middle: S.
+            last: Hosking
+        -   first: D.
+            middle: J.
+            last: Wischik
     bruinsma2023autoregressive:
         type: article
         title: Autoregressive Conditional Neural Processes
