@@ -77,6 +77,30 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    evans_remotesensingenvironment:
+        type: article
+        title: Unsupervised machine learning detection of iceberg populations within
+            sea ice from dual-polarisation SAR imagery
+        journal: Remote Sensing of Environment
+        volume: '297'
+        pages: '113780'
+        year: '2023'
+        issn: 0034-4257
+        doi: https://doi.org/10.1016/j.rse.2023.113780
+        url: https://www.sciencedirect.com/science/article/pii/S0034425723003310
+        author:
+        -   first: Ben
+            last: Evans
+        -   first: Anita
+            last: Faul
+        -   first: Andrew
+            last: Fleming
+        -   first: David
+            middle: G.
+            last: Vaughan
+        -   first: J.
+            middle: Scott
+            last: Hosking
     andersson_2023_envdatasci:
         type: article
         title: Environmental sensor placement with convolutional Gaussian neural processes
