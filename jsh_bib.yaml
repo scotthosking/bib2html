@@ -1,4 +1,37 @@
 entries:
+    tazi_egusphere:
+        type: preprint
+        title: 'Downscaling precipitation over High Mountain Asia using Multi-Fidelity
+            Gaussian Processes: Improved estimates from ERA5'
+        journal: EGUsphere
+        volume: '2023'
+        year: '2023'
+        pages: 1--33
+        url: https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2145/
+        doi: 10.5194/egusphere-2023-2145
+        author:
+        -   first: K.
+            last: Tazi
+        -   first: A.
+            last: Orr
+        -   first: J.
+            last: Hernandez-Gonz\'alez
+        -   first: S.
+            last: Hosking
+        -   first: R.
+            middle: E.
+            last: Turner
+    williams_2023_gpicesheet:
+        type: preprint
+        doi: 10.21203/rs.3.rs-3405435/v1
+        url: https://doi.org/10.21203/rs.3.rs-3405435/v1
+        title: Calculating exposure to extreme sea level risk will require high resolution
+            ice sheet models
+        journal: .
+        year: '2023'
+        author:
+        -   first: C.R.
+            last: Williams!
     thodoroff_2022_mficesheet:
         type: preprint
         doi: .

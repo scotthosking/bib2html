@@ -106,8 +106,10 @@ def author_dict2str(value, full_author_info=True):
 
     if dict['last'].endswith('!'): author_str = author_str.replace('!', ' et al.')  
     
+    ### see: https://www.ou.edu/research/electron/internet/special.shtml
     author_str = author_str.replace(r"\'e", "&eacute;")
     author_str = author_str.replace(r'\"o', '&ouml;')
+    author_str = author_str.replace(r'\'a', '&aacute;')
 
     return author_str
     
