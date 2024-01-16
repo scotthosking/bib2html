@@ -1,4 +1,28 @@
 entries:
+    rogers_arxiv_2024:
+        type: preprint
+        title: Sea ice detection using concurrent multispectral and synthetic aperture
+            radar imagery
+        year: '2024'
+        doi: 10.48550/arXiv.2401.06009
+        url: https://arxiv.org/abs/2401.06009
+        journal: arxiv
+        author:
+        -   first: Martin
+            middle: S J
+            last: Rogers
+        -   first: Maria
+            last: Fox
+        -   first: Andrew
+            last: Fleming
+        -   first: Louisa
+            prelast: van
+            last: Zeeland
+        -   first: Jeremy
+            last: Wilkinson
+        -   first: J.
+            middle: Scott
+            last: Hosking
     tazi_egusphere:
         type: preprint
         title: 'Downscaling precipitation over High Mountain Asia using Multi-Fidelity
