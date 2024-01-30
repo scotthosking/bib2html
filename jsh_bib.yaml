@@ -134,6 +134,39 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    jay_naturegeoscience:
+        type: article
+        title: Prioritize environmental sustainability in use of AI and data science
+            methods
+        journal: Nature Geoscience
+        year: '2024'
+        doi: 10.1038/s41561-023-01369-y
+        url: https://www.nature.com/articles/s41561-023-01369-y
+        author:
+        -   first: Caroline
+            last: Jay
+        -   first: Yurong
+            last: Yu
+        -   first: Ian
+            last: Crawford
+        -   first: Scott
+            last: Archer-Nicholls
+        -   first: Philip
+            last: James
+        -   first: Ann
+            last: Gledson
+        -   first: Gavin
+            last: Shaddick
+        -   first: Robert
+            last: Haines
+        -   first: Loïc
+            last: Lannelongue
+        -   first: Emily
+            last: Lines
+        -   first: Scott
+            last: Hosking
+        -   first: David
+            last: Topping
     evans_remotesensingenvironment:
         type: article
         title: Unsupervised machine learning detection of iceberg populations within
@@ -143,7 +176,7 @@ entries:
         pages: '113780'
         year: '2023'
         issn: 0034-4257
-        doi: https://doi.org/10.1016/j.rse.2023.113780
+        doi: 10.1016/j.rse.2023.113780
         url: https://www.sciencedirect.com/science/article/pii/S0034425723003310
         author:
         -   first: Ben
