@@ -134,6 +134,30 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    joakimsen_ieee_2024:
+        type: article
+        journal: IEEE Geoscience and Remote Sensing Letters
+        title: Interrogating Sea Ice Predictability with Gradients
+        year: '2024'
+        volume: ''
+        number: ''
+        pages: 1-1
+        doi: 10.1109/LGRS.2024.3366308
+        author:
+        -   first: Harald
+            middle: L.
+            last: Joakimsen
+        -   first: Iver
+            last: Martinsen
+        -   first: Luigi
+            middle: T.
+            last: Luppino
+        -   first: Andrew
+            last: McDonald
+        -   first: Scott
+            last: Hosking
+        -   first: Robert
+            last: Jenssen
     jay_naturegeoscience:
         type: article
         title: Prioritize environmental sustainability in use of AI and data science
