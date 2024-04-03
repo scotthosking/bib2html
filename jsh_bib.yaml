@@ -1,4 +1,37 @@
 entries:
+    vaughan2024aardvark:
+        type: preprint
+        title: 'Aardvark Weather: end-to-end data-driven weather forecasting'
+        year: '2024'
+        journal: ArXiv
+        url: https://arxiv.org/abs/2404.00411
+        doi: 10.48550/arXiv.2404.00411
+        author:
+        -   first: Anna
+            last: Vaughan
+        -   first: Stratis
+            last: Markou
+        -   first: Will
+            last: Tebbutt
+        -   first: James
+            last: Requeima
+        -   first: Wessel
+            middle: P.
+            last: Bruinsma
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Michael
+            last: Herzog
+        -   first: Nicholas
+            middle: D.
+            last: Lane
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Richard
+            middle: E.
+            last: Turner
     tazi_egusphere:
         type: preprint
         title: 'Downscaling precipitation over High Mountain Asia using Multi-Fidelity
