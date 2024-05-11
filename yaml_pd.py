@@ -156,15 +156,9 @@ if full_author_info == True:
     citations = indexes[0].string 
 
 
-
-
-
-
 '''
 Write html file
 '''
-
-
 
 with open(outfile, 'w') as file:
 
@@ -179,6 +173,8 @@ with open(outfile, 'w') as file:
     file.write('last_modified_at: '+datetime.now().strftime('%Y-%m-%d')+'\n')
     file.write('---\n')
 
+    file.write('<h1><a id="Publications"></a>Publications</h1>\n')
+
     '''
     Links:
     '''
@@ -191,18 +187,17 @@ with open(outfile, 'w') as file:
         citations_part = 'citations = '+citations
         date_part      = '('+datetime.now().strftime("%B %Y")+')'
         
-        file.write( '<sub>' +scholar_part+': '+h_index_part+', '+citations_part+' '+date_part+'</sub>')
+        file.write( '<sub>' +scholar_part+': '+h_index_part+', '+citations_part+' '+date_part+'</sub>\n')
         # file.write( '<sub>' +orcid_part+ ' | ' +scopus_part+ '</sub>')
-        file.write('\n')
+        file.write('<br><br>')
 
-    file.write( '<br><br> <a href="https://www.nature.com/collections/afchdbedbe"><img src="assets/images/nat_comms_top25.jpg"></a>' )
 
     '''
     Preprint:
     '''
     df_preprint = df_all[ df_all['type'] == 'preprint' ]
     if len(df_preprint) > 0:
-        file.write('<h2><a id="Preprints"></a>Preprints</h2>\n')
+        file.write('<h3><a id="Preprints"></a>Preprints</h3>\n')
         file.write('<ul>\n')
     for index, row in df_preprint.iterrows():
         author_part  = '<span class="author">'+row['author']+'</span>, '
@@ -261,7 +256,7 @@ with open(outfile, 'w') as file:
     Peer-reviewed:
     '''
     df_articles = df_all[ df_all['type'] == 'article' ]
-    file.write('<h2><a id="Peer-reviewed"></a>Peer-reviewed</h2>\n')
+    file.write('<h3><a id="Peer-reviewed"></a>Peer-reviewed</h3>\n')
     file.write('<ol reversed>\n')
     for index, row in df_articles.iterrows():
         author_part  = '<span class="author">'+row['author']+'</span>'
@@ -360,3 +355,5 @@ with open(outfile, 'w') as file:
         line = '<li>'+author_part+title_part+'</li>\n'
         file.write(line)
     file.write('</ul>\n')
+
+    file.write( '<br><br> <a href="https://www.nature.com/collections/afchdbedbe"><img src="assets/images/nat_comms_top25.jpg"></a>' )
