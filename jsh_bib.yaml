@@ -237,6 +237,8 @@ entries:
         issn: 0034-4257
         doi: 10.1016/j.rse.2023.113780
         url: https://www.sciencedirect.com/science/article/pii/S0034425723003310
+        media: Fox Weather, blue, https://www.foxweather.com/weather-news/iceberg-a23a-weddell-sea-antarctic-peninsula;
+            BAS Press Release, DarkOrange, https://www.bas.ac.uk/media-post/using-ai-to-track-icebergs/
         author:
         -   first: Ben
             last: Evans
