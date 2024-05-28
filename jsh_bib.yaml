@@ -1,4 +1,24 @@
 entries:
+    parthipan2024:
+        type: preprint
+        title: Defining error accumulation in ML atmospheric simulators
+        year: '2024'
+        journal: ArXiv
+        doi: 10.48550/arXiv.2405.14714
+        author:
+        -   first: Raghul
+            last: Parthipan
+        -   first: Mohit
+            last: Anand
+        -   first: Hannah
+            middle: M.
+            last: Christensen
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Damon
+            middle: J.
+            last: Wischik
     vaughan2024aardvark:
         type: preprint
         title: 'Aardvark Weather: end-to-end data-driven weather forecasting'
