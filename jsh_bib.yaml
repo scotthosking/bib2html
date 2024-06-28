@@ -83,19 +83,49 @@ entries:
         journal: .
         year: '2023'
         author:
-        -   first: C.R.
-            last: Williams!
-    thodoroff_2022_mficesheet:
+        -   first: Rosie
+            middle: C.
+            last: Williams
+        -   first: Pierre
+            last: Thodoroff
+        -   first: Robert
+            last: Arthern
+        -   first: James
+            last: Byrne
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Markus
+            last: Kaiser
+        -   first: Neil
+            last: Lawrence
+        -   first: Ieva
+            last: Kazlauskaite
+    thodoroff_2023:
         type: preprint
-        doi: .
-        url: https://gp-seminar-series.github.io/neurips-2022/assets/camera_ready/4.pdf
         title: Multi-fidelity experimental design for ice-sheet simulation
         journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
             and Decision-making Systems
-        year: '2022'
+        year: '2023'
+        url: https://doi.org/10.48550/arXiv.2307.08449
+        doi: 10.48550/arXiv.2307.08449
         author:
         -   first: Pierre
-            last: Thodoroff!
+            last: Thodoroff
+        -   first: Markus
+            last: Kaiser
+        -   first: Rosie
+            last: Williams
+        -   first: Robert
+            last: Arthern
+        -   first: Scott
+            last: Hosking
+        -   first: Neil
+            last: Lawrence
+        -   first: James
+            last: Byrne
+        -   first: Ieva
+            last: Kazlauskaite
     ravuri_2022_icecoredating:
         type: preprint
         doi: 10.48550/ARXIV.2210.16568
