@@ -21,7 +21,7 @@ entries:
             last: Wischik
     vaughan2024aardvark:
         type: preprint
-        title: 'Aardvark Weather: end-to-end data-driven weather forecasting'
+        title: End-to-end data-driven weather forecasting
         year: '2024'
         journal: ArXiv
         url: https://arxiv.org/abs/2404.00411
@@ -46,6 +46,8 @@ entries:
         -   first: Nicholas
             middle: D.
             last: Lane
+        -   first: Matthew
+            last: Chantry
         -   first: J.
             middle: Scott
             last: Hosking
