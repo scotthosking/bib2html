@@ -1,4 +1,30 @@
 entries:
+    rouse2024:
+        type: preprint
+        title: Reclassifying Lethal Heat
+        year: '2024'
+        journal: PREPRINT (Version 1) available at Research Square
+        doi: https://doi.org/10.21203/rs.3.rs-4736541/v1
+        author:
+        -   first: Robert
+            last: Rouse
+        -   first: Ramit
+            last: Debnath
+        -   first: David
+            last: Rouse
+        -   first: Will
+            last: Tebbutt
+        -   first: Benedicte
+            last: Dousset
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Allan
+            last: McRobie
+        -   first: Camilo
+            last: Mora
+        -   first: Emily
+            last: Shuckburgh
     parthipan2024:
         type: preprint
         title: Defining error accumulation in ML atmospheric simulators
