@@ -115,28 +115,6 @@ entries:
         -   first: Richard
             middle: E.
             last: Turner
-    tazi_egusphere:
-        type: preprint
-        title: 'Downscaling precipitation over High Mountain Asia using Multi-Fidelity
-            Gaussian Processes: Improved estimates from ERA5'
-        journal: EGUsphere
-        volume: '2023'
-        year: '2023'
-        pages: 1--33
-        url: https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2145/
-        doi: 10.5194/egusphere-2023-2145
-        author:
-        -   first: K.
-            last: Tazi
-        -   first: A.
-            last: Orr
-        -   first: J.
-            last: Hernandez-Gonz\'alez
-        -   first: S.
-            last: Hosking
-        -   first: R.
-            middle: E.
-            last: Turner
     williams_2023_gpicesheet:
         type: preprint
         doi: 10.21203/rs.3.rs-3405435/v1
@@ -256,6 +234,29 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    tazi_hess_2024:
+        type: article
+        title: 'Downscaling precipitation over High-mountain Asia using multi-fidelity
+            Gaussian processes: improved estimates from ERA5'
+        journal: Hydrology and Earth System Sciences
+        volume: '28'
+        year: '2024'
+        number: '22'
+        pages: 4903--4925
+        url: https://hess.copernicus.org/articles/28/4903/2024/
+        doi: 10.5194/hess-28-4903-2024
+        author:
+        -   first: K.
+            last: Tazi
+        -   first: A.
+            last: Orr
+        -   first: J.
+            last: Hernandez-Gonz\'alez
+        -   first: S.
+            last: Hosking
+        -   first: R.
+            middle: E.
+            last: Turner
     rogers_remotesensingenv_2024:
         type: article
         title: Sea ice detection using concurrent multispectral and synthetic aperture
