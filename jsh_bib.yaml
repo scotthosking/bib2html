@@ -234,6 +234,28 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    coca-castro_eds_2025:
+        type: article
+        title: 'Improving the reproducibility in geoscientific papers: lessons learned
+            from a Hackathon in climate science'
+        volume: '4'
+        doi: 10.1017/eds.2024.35
+        journal: Environmental Data Science
+        year: '2025'
+        author:
+        -   first: Alejandro
+            last: Coca-Castro
+        -   first: Anne
+            last: Fouilloux
+        -   first: Ricardo
+            last: Barros Lourenço
+        -   first: Andrew
+            last: McDonald
+        -   first: Yuhan
+            last: Rao
+        -   first: J.
+            middle: Scott
+            last: Hosking
     tazi_hess_2024:
         type: article
         title: 'Downscaling precipitation over High-mountain Asia using multi-fidelity
