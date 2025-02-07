@@ -1,4 +1,37 @@
 entries:
+    uebbing2024investigating:
+        type: preprint
+        title: Investigating the Impact of Feature Reduction for Deep Learning-based
+            Seasonal Sea Ice Forecasting
+        journal: Northern Lights Deep Learning Conference 2025
+        year: '2024'
+        url: https://openreview.net/forum?id=7TwvcPAyxX
+        doi: https://openreview.net/forum?id=7TwvcPAyxX
+        author:
+        -   first: Lars
+            last: Uebbing
+        -   first: Harald
+            middle: Lykke
+            last: Joakimsen
+        -   first: Luigi
+            middle: Tommaso
+            last: Luppino
+        -   first: Iver
+            last: Martinsen
+        -   first: Andrew
+            last: McDonald
+        -   first: Kristoffer
+            middle: Knutsen
+            last: Wickstr{\o}m
+        -   first: S{\'e}bastien
+            last: Lef{\`e}vre
+        -   first: Arnt
+            middle: B.
+            last: Salberg
+        -   first: Scott
+            last: Hosking
+        -   first: Robert
+            last: Jenssen
     girona-mata2024:
         type: preprint
         title: 'Probabilistic precipitation downscaling for ungauged mountain sites:
@@ -115,33 +148,6 @@ entries:
         -   first: Richard
             middle: E.
             last: Turner
-    williams_2023_gpicesheet:
-        type: preprint
-        doi: 10.21203/rs.3.rs-3405435/v1
-        url: https://doi.org/10.21203/rs.3.rs-3405435/v1
-        title: Calculating exposure to extreme sea level risk will require high resolution
-            ice sheet models
-        journal: Research Square
-        year: '2023'
-        author:
-        -   first: Rosie
-            middle: C.
-            last: Williams
-        -   first: Pierre
-            last: Thodoroff
-        -   first: Robert
-            last: Arthern
-        -   first: James
-            last: Byrne
-        -   first: J.
-            middle: Scott
-            last: Hosking
-        -   first: Markus
-            last: Kaiser
-        -   first: Neil
-            last: Lawrence
-        -   first: Ieva
-            last: Kazlauskaite
     thodoroff_2023:
         type: preprint
         title: Multi-fidelity experimental design for ice-sheet simulation
@@ -234,6 +240,56 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    williams_naturecommsearthenv_2025:
+        type: preprint
+        doi: 10.1038/s43247-025-02010-z
+        url: https://doi.org/10.1038/s43247-025-02010-z
+        title: Calculations of extreme sea level rise scenarios are strongly dependent
+            on ice sheet model resolution
+        journal: Commun Earth Environ
+        year: '2025'
+        author:
+        -   first: Rosie
+            middle: C.
+            last: Williams
+        -   first: Pierre
+            last: Thodoroff
+        -   first: Robert
+            middle: J.
+            last: Arthern
+        -   first: James
+            last: Byrne
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Markus
+            last: Kaiser
+        -   first: Neil
+            middle: D.
+            last: Lawrence
+        -   first: Ieva
+            last: Kazlauskaite
+    rouse_eds_2025:
+        type: article
+        title: Streamflow prediction using artificial neural networks and soil moisture
+            proxies
+        volume: '4'
+        doi: 10.1017/eds.2024.48
+        journal: Environmental Data Science
+        year: '2025'
+        pages: e5
+        author:
+        -   first: Robert
+            middle: Edwin
+            last: Rouse
+        -   first: Doran
+            last: Khamis
+        -   first: Scott
+            last: Hosking
+        -   first: Allan
+            last: McRobie
+        -   first: Emily
+            last: Shuckburgh
     coca-castro_eds_2025:
         type: article
         title: 'Improving the reproducibility in geoscientific papers: lessons learned
