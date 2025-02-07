@@ -241,7 +241,7 @@ entries:
             middle: Scott
             last: Hosking
     williams_naturecommsearthenv_2025:
-        type: preprint
+        type: article
         doi: 10.1038/s43247-025-02010-z
         url: https://doi.org/10.1038/s43247-025-02010-z
         title: Calculations of extreme sea level rise scenarios are strongly dependent
