@@ -22,9 +22,9 @@ entries:
             last: McDonald
         -   first: Kristoffer
             middle: Knutsen
-            last: Wickstr{\o}m
-        -   first: S{\'e}bastien
-            last: Lef{\`e}vre
+            last: Wickstr\om
+        -   first: S\'ebastien
+            last: Lef\`evre
         -   first: Arnt
             middle: B.
             last: Salberg
