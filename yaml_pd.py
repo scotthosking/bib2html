@@ -108,9 +108,11 @@ def author_dict2str(value, full_author_info=True):
     
     ### see: https://www.ou.edu/research/electron/internet/special.shtml
     author_str = author_str.replace(r"\'e", "&eacute;")
+    author_str = author_str.replace(r"\`e", "&egrave;")
     author_str = author_str.replace(r'\"o', '&ouml;')
     author_str = author_str.replace(r'\'a', '&aacute;')
-
+    author_str = author_str.replace(r'\o' , '&oslash;')
+    
     return author_str
     
 
