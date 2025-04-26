@@ -199,7 +199,7 @@ with open(outfile, 'w') as file:
     '''
     df_preprint = df_all[ df_all['type'] == 'preprint' ]
     if len(df_preprint) > 0:
-        file.write('<h3><a id="Preprints"></a>Preprints</h3>\n')
+        file.write('<h3><a id="Preprints"></a>Preprints, Conference Papers</h3>\n')
         file.write('<ul>\n')
     for index, row in df_preprint.iterrows():
         author_part  = '<span class="author">'+row['author']+'</span>, '
@@ -212,7 +212,7 @@ with open(outfile, 'w') as file:
         title_part = '<span class="title"><a href="'+url_part+'">'+row['title']+'</a></span>, '
 
         journal_part = '<i>'+row['journal']+'</i>'
-        line = '<li>'+author_part+title_part+journal_part+'</li>\n'
+        line = '<li style="padding-bottom: 12px; border: 1px dashed #ddd;>'+author_part+title_part+journal_part+'</li>\n'
         file.write(line)
     file.write('</ul>\n')
 
@@ -306,14 +306,21 @@ with open(outfile, 'w') as file:
 
 
         if full_author_info:
-            line = '<li>'+author_part+year_part+title_part+' '+journal_part+media_tags+'&nbsp;</li>\n'
+            line = '<li style="padding-bottom: 12px;>'+author_part+year_part+title_part+' '+journal_part+media_tags+'&nbsp;</li>\n'
         else:
-            line = '<li>'+author_part+year_part+title_part+' '+journal_part+'</li>\n'
+            line = '<li style="padding-bottom: 12px;>'+author_part+year_part+title_part+' '+journal_part+'</li>\n'
 
 
 
         file.write(line)
     file.write('</ol>\n')
+
+
+
+
+
+
+
 
     '''
     Reports:
@@ -326,7 +333,7 @@ with open(outfile, 'w') as file:
         year_part    = '<span class="year"> ('+row['year']+') </span>'
         title_part   = '<span class="title"><a href="'+row['pdf']+'">"'+row['title']+'"</a></span>, '
         institution_part = '<i>'+row['institution']+'</i>'
-        line = '<li>'+author_part+year_part+title_part+institution_part+'</li>\n'
+        line = '<li style="padding-bottom: 12px;>'+author_part+year_part+title_part+institution_part+'</li>\n'
         file.write(line)
     file.write('</ul>\n')
 
@@ -354,7 +361,7 @@ with open(outfile, 'w') as file:
     for index, row in df_datasets.iterrows():
         author_part  = '<span class="author">'+row['author']+'</span>, '
         title_part   = ' <a href="'+row['url']+'">'+row['title']+'</a>&nbsp;'
-        line = '<li>'+author_part+title_part+'</li>\n'
+        line = '<li style="padding-bottom: 12px;>'+author_part+title_part+'</li>\n'
         file.write(line)
     file.write('</ul>\n')
 
