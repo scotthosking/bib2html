@@ -205,6 +205,27 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    rouse_etal_eds_2025:
+        type: article
+        title: 'Reflective error: a metric for assessing predictive performance at
+            extreme events'
+        volume: '4'
+        doi: 10.1017/eds.2025.16
+        journal: Environmental Data Science
+        year: '2025'
+        pages: e26
+        author:
+        -   first: Robert
+            middle: Edwin
+            last: Rouse
+        -   first: Henry
+            last: Moss
+        -   first: Scott
+            last: Hosking
+        -   first: Allan
+            last: McRobie
+        -   first: Emily
+            last: Shuckburgh
     allen_nature_2025:
         type: article
         title: End-to-end data-driven weather prediction
