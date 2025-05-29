@@ -205,6 +205,53 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    bowler_2025_ecolsolevid:
+        type: article
+        title: 'AI sea ice forecasts for Arctic conservation: A case study predicting
+            the timing of caribou sea ice migrations'
+        journal: Ecological Solutions and Evidence
+        volume: '6'
+        number: '2'
+        pages: e70034
+        doi: https://doi.org/10.1002/2688-8319.70034
+        url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1002/2688-8319.70034
+        eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/2688-8319.70034
+        year: '2025'
+        author:
+        -   first: Ellen
+            last: Bowler
+        -   first: James
+            last: Byrne
+        -   first: Lisa-Marie
+            last: Leclerc
+        -   first: Amélie
+            last: Roberto-Charron
+        -   first: Martin
+            middle: S. J.
+            last: Rogers
+        -   first: Rachel
+            middle: D.
+            last: Cavanagh
+        -   first: Jason
+            last: Harasimo
+        -   first: Melanie
+            middle: L.
+            last: Lancaster
+        -   first: Ryan
+            middle: S. Y.
+            last: Chan
+        -   first: Oliver
+            last: Strickson
+        -   first: Jeremy
+            last: Wilkinson
+        -   first: Rod
+            last: Downie
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Tom
+            middle: R.
+            last: Andersson
     rouse_etal_eds_2025:
         type: article
         title: 'Reflective error: a metric for assessing predictive performance at
