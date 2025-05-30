@@ -217,6 +217,10 @@ entries:
         url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1002/2688-8319.70034
         eprint: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/2688-8319.70034
         year: '2025'
+        media: Phys.org, black, https://phys.org/news/2025-05-ai-tool-aids-caribou-arctic.html;
+            Anadolu Agency, blue, https://www.aa.com.tr/en/environment/new-ai-tool-can-help-protect-migration-routes-of-endangered-caribou-in-arctic-study/3583642;
+            Business Weekly, grey, https://www.businessweekly.co.uk/posts/british-antarctic-survey-puts-ai-into-arctic-to-aid-caribou-conservation;
+            Press Release, red, https://www.bas.ac.uk/media-post/new-ai-tool-aids-caribou-conservation-in-a-changing-arctic/
         author:
         -   first: Ellen
             last: Bowler
