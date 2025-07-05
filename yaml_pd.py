@@ -4,6 +4,9 @@ import numpy as np
 from datetime import datetime 
 from bs4 import BeautifulSoup
 import urllib.request
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 
 import argparse
@@ -56,8 +59,6 @@ df_all = pd.DataFrame([])
 df     = pd.DataFrame(columns=columns)
 last_paper_id = '-1'
 
-
-
 def author_dict2str(value, full_author_info=True):
 
     author_list = []
@@ -87,13 +88,13 @@ def author_dict2str(value, full_author_info=True):
             ### construct name with only surname
             author = lst_name
 
-        ### find me! make bold and remember position in list
-        if (lst_name == 'Hosking') | (lst_name == 'Hosking!'): 
-            et_al_position = j
-            if author.endswith('!'): 
-                author = '<b>'+author[:-1]+'</b>!'
-            else:
-                author = '<b>'+author+'</b>'
+        # ### find me! make bold and remember position in list
+        # if (lst_name == 'Hosking') | (lst_name == 'Hosking!'): 
+        #     et_al_position = j
+        #     if author.endswith('!'): 
+        #         author = '<b>'+author[:-1]+'</b>!'
+        #     else:
+        #         author = '<b>'+author+'</b>'
 
         author_list.append(author)
 
@@ -138,6 +139,7 @@ for i in range(0,n):
 
 df_all = pd.concat([df_all,df])
 
+df_all.to_excel('/Users/shosking/Documents/GitHub/bib2html/publications.xlsx', index=False)
 
 
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pybtex-convert jsh_bib.bib jsh_bib.yaml
+python3 -m pybtex.database.convert jsh_bib.bib jsh_bib.yaml
 
 python3 yaml_pd.py --short_version False
 python3 yaml_pd.py --short_version True
