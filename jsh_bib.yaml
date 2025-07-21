@@ -1,4 +1,27 @@
 entries:
+    evans_egusphere-2025-2886:
+        type: preprint
+        title: 'Icebergs, jigsaw puzzles and genealogy: Automated multi-generational
+            iceberg tracking and lineage reconstruction'
+        journal: EGUsphere
+        volume: '2025'
+        year: '2025'
+        pages: 1--28
+        url: https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2886/
+        doi: 10.5194/egusphere-2025-2886
+        author:
+        -   first: B.
+            middle: R.
+            last: Evans
+        -   first: A.
+            last: Lowe
+        -   first: A.
+            last: Crawford
+        -   first: A.
+            last: Fleming
+        -   first: J.
+            middle: S.
+            last: Hosking
     uebbing2024investigating:
         type: preprint
         title: Investigating the Impact of Feature Reduction for Deep Learning-based
@@ -32,40 +55,6 @@ entries:
             last: Hosking
         -   first: Robert
             last: Jenssen
-    girona-mata2024:
-        type: preprint
-        title: 'Probabilistic precipitation downscaling for ungauged mountain sites:
-            a pilot study for the Hindu Kush Karakoram Himalaya'
-        journal: EGUsphere
-        year: '2024'
-        pages: 1--33
-        url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2805/
-        doi: 10.5194/egusphere-2024-2805
-        author:
-        -   first: M.
-            last: Girona-Mata
-        -   first: A.
-            last: Orr
-        -   first: M.
-            last: Widmann
-        -   first: D.
-            last: Bannister
-        -   first: G.
-            middle: H.
-            last: Dars
-        -   first: S.
-            last: Hosking
-        -   first: J.
-            last: Norris
-        -   first: D.
-            last: Ocio
-        -   first: T.
-            last: Phillips
-        -   first: J.
-            last: Steiner
-        -   first: R.
-            middle: E.
-            last: Turner
     rouse2024:
         type: preprint
         title: Reclassifying Lethal Heat
@@ -203,6 +192,42 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    girona-mata_hess_2025:
+        type: article
+        title: 'Probabilistic precipitation downscaling for ungauged mountain sites:
+            a pilot study for the Hindu Kush Himalaya'
+        journal: Hydrology and Earth System Sciences
+        volume: '29'
+        year: '2025'
+        number: '14'
+        pages: 3073--3100
+        url: https://hess.copernicus.org/articles/29/3073/2025/
+        doi: 10.5194/hess-29-3073-2025
+        author:
+        -   first: M.
+            last: Girona-Mata
+        -   first: A.
+            last: Orr
+        -   first: M.
+            last: Widmann
+        -   first: D.
+            last: Bannister
+        -   first: G.
+            middle: H.
+            last: Dars
+        -   first: S.
+            last: Hosking
+        -   first: J.
+            last: Norris
+        -   first: D.
+            last: Ocio
+        -   first: T.
+            last: Phillips
+        -   first: J.
+            last: Steiner
+        -   first: R.
+            middle: E.
+            last: Turner
     bowler_2025_ecolsolevid:
         type: article
         title: 'AI sea ice forecasts for Arctic conservation: A case study predicting
