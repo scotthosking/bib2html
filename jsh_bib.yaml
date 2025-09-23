@@ -1,4 +1,90 @@
 entries:
+    dunstan_arxiv_2025:
+        type: preprint
+        title: 'FastNet: Improving the physical consistency of machine-learning weather
+            prediction models through loss function design'
+        year: '2025'
+        eprint: '2509.17601'
+        journal: arXiv
+        primaryclass: physics.ao-ph
+        url: https://arxiv.org/abs/2509.17601
+        doi: 10.48550/arXiv.2509.17601
+        author:
+        -   first: Tom
+            last: Dunstan
+        -   first: Oliver
+            last: Strickson
+        -   first: Thusal
+            last: Bennett
+        -   first: Jack
+            last: Bowyer
+        -   first: Matthew
+            last: Burnand
+        -   first: James
+            last: Chappell
+        -   first: Alejandro
+            last: Coca-Castro
+        -   first: Kirstine
+            middle: Ida
+            last: Dale
+        -   first: Eric
+            middle: G.
+            last: Daub
+        -   first: Noushin
+            last: Eftekhari
+        -   first: Manvendra
+            last: Janmaijaya
+        -   first: Jon
+            last: Lillis
+        -   first: David
+            last: Salvador-Jasin
+        -   first: Nathan
+            last: Simpson
+        -   first: Ryan
+            middle: Sze-Yin
+            last: Chan
+        -   first: Mohamad
+            last: Elmasri
+        -   first: Lydia
+            middle: Allegranza
+            last: France
+        -   first: Sam
+            last: Madge
+        -   first: Levan
+            last: Bokeria
+        -   first: Hannah
+            last: Brown
+        -   first: Tom
+            last: Dodds
+        -   first: Anna-Louise
+            last: Ellis
+        -   first: David
+            last: Llewellyn-Jones
+        -   first: Theo
+            last: McCaie
+        -   first: Sophia
+            last: Moreton
+        -   first: Tom
+            last: Potter
+        -   first: James
+            last: Robinson
+        -   first: Adam
+            middle: A.
+            last: Scaife
+        -   first: Iain
+            last: Stenson
+        -   first: David
+            last: Walters
+        -   first: Karina
+            last: Bett-Williams
+        -   first: Louisa
+            prelast: van
+            last: Zeeland
+        -   first: Peter
+            last: Yatsyshin
+        -   first: J.
+            middle: Scott
+            last: Hosking
     evans_egusphere-2025-2886:
         type: preprint
         title: 'Icebergs, jigsaw puzzles and genealogy: Automated multi-generational
@@ -2026,6 +2112,91 @@ entries:
         -   first: J.
             middle: A.
             last: Pyle
+    daub_2025:
+        type: techreport
+        title: Technical overview and architecture of the FastNet Machine Learning
+            weather prediction model, version 1.0
+        year: '2025'
+        eprint: '2509.17658'
+        archiveprefix: arXiv
+        primaryclass: physics.ao-ph
+        institution: The Alan Turing Institute, Met Office
+        url: https://arxiv.org/abs/2509.17658
+        doi: 10.48550/arXiv.2509.17658
+        pdf: https://arxiv.org/pdf/2509.17658v1
+        author:
+        -   first: Eric
+            middle: G.
+            last: Daub
+        -   first: Tom
+            last: Dunstan
+        -   first: Thusal
+            last: Bennett
+        -   first: Matthew
+            last: Burnand
+        -   first: James
+            last: Chappell
+        -   first: Alejandro
+            last: Coca-Castro
+        -   first: Noushin
+            last: Eftekhari
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Manvendra
+            last: Janmaijaya
+        -   first: Jon
+            last: Lillis
+        -   first: David
+            last: Salvador-Jasin
+        -   first: Nathan
+            last: Simpson
+        -   first: Oliver
+            middle: T
+            last: Strickson
+        -   first: Ryan
+            middle: Sze-Yin
+            last: Chan
+        -   first: Mohamad
+            last: Elmasri
+        -   first: Lydia
+            middle: Allegranza
+            last: France
+        -   first: Sam
+            last: Madge
+        -   first: James
+            last: Robinson
+        -   first: Adam
+            middle: A.
+            last: Scaife
+        -   first: David
+            last: Walters
+        -   first: Peter
+            last: Yatsyshin
+        -   first: Theo
+            last: McCaie
+        -   first: Levan
+            last: Bokeria
+        -   first: Hannah
+            last: Brown
+        -   first: Tom
+            last: Dodds
+        -   first: David
+            last: Llewellyn-Jones
+        -   first: Sophia
+            last: Moreton
+        -   first: Tom
+            last: Potter
+        -   first: Iain
+            last: Stenson
+        -   first: Louisa
+            prelast: van
+            last: Zeeland
+        -   first: Karina
+            last: Bett-Williams
+        -   first: Kirstine
+            middle: Ida
+            last: Dale
     alden_conner_2023_7712969:
         type: techreport
         title: Tackling climate change with data science and AI
