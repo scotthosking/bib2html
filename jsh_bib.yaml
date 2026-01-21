@@ -278,6 +278,51 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    evans_cryospere_2026:
+        type: article
+        title: 'Icebergs, jigsaw puzzles, and genealogy: automated multi-generational
+            iceberg tracking and lineage reconstruction'
+        journal: The Cryosphere
+        volume: '20'
+        year: '2026'
+        number: '1'
+        pages: 467--482
+        url: https://tc.copernicus.org/articles/20/467/2026/
+        doi: 10.5194/tc-20-467-2026
+        author:
+        -   first: B.
+            middle: R.
+            last: Evans
+        -   first: A.
+            middle: R.
+            last: Lowe
+        -   first: A.
+            last: Crawford
+        -   first: A.
+            last: Fleming
+        -   first: J.
+            middle: S.
+            last: Hosking
+    tazi_eds_2025:
+        type: article
+        title: Precipitation prediction over the upper Indus Basin from large-scale
+            circulation patterns using Gaussian processes
+        volume: '4'
+        doi: 10.1017/eds.2025.10020
+        journal: Environmental Data Science
+        year: '2025'
+        pages: e46
+        author:
+        -   first: Kenza
+            last: Tazi
+        -   first: Andrew
+            last: Orr
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Richard
+            middle: E.
+            last: Turner
     girona-mata_hess_2025:
         type: article
         title: 'Probabilistic precipitation downscaling for ungauged mountain sites:
