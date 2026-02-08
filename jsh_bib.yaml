@@ -289,6 +289,8 @@ entries:
         pages: 467--482
         url: https://tc.copernicus.org/articles/20/467/2026/
         doi: 10.5194/tc-20-467-2026
+        media: Phys.org, black, https://phys.org/news/2026-02-ai-track-icebergs-adrift-sea.html;
+            Heise.de, blue, https://www.heise.de/en/news/Climate-Research-Scientists-Track-Iceberg-Life-Cycle-with-AI-11167824.html
         author:
         -   first: B.
             middle: R.
@@ -303,6 +305,33 @@ entries:
         -   first: J.
             middle: S.
             last: Hosking
+    muszynski_qjrms_2026:
+        type: article
+        title: Using a causal effect network approach to quantify the impact of ENSO
+            teleconnections on summer monsoon precipitation over the Himalayas and
+            key regional circulations
+        journal: Quarterly Journal of the Royal Meteorological Society
+        pages: e70114
+        keywords: causal effect networks, ENSO teleconnections, Himalayas, monsoon
+            Hadley circulation, regional Walker circulation, summer monsoon precipitation
+        doi: https://doi.org/10.1002/qj.70114
+        url: https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.70114
+        eprint: https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/qj.70114
+        year: '2026'
+        author:
+        -   first: Grzegorz
+            last: Muszynski
+        -   first: Andrew
+            last: Orr
+        -   first: Indrani
+            last: Roy
+        -   first: Giorgia
+            last: Di Capua
+        -   first: Hamish
+            middle: D.
+            last: Pritchard
+        -   first: J.
+            last: Scott Hosking
     tazi_eds_2025:
         type: article
         title: Precipitation prediction over the upper Indus Basin from large-scale
