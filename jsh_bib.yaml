@@ -85,62 +85,6 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
-    evans_egusphere-2025-2886:
-        type: preprint
-        title: 'Icebergs, jigsaw puzzles and genealogy: Automated multi-generational
-            iceberg tracking and lineage reconstruction'
-        journal: EGUsphere
-        volume: '2025'
-        year: '2025'
-        pages: 1--28
-        url: https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2886/
-        doi: 10.5194/egusphere-2025-2886
-        author:
-        -   first: B.
-            middle: R.
-            last: Evans
-        -   first: A.
-            last: Lowe
-        -   first: A.
-            last: Crawford
-        -   first: A.
-            last: Fleming
-        -   first: J.
-            middle: S.
-            last: Hosking
-    uebbing2024investigating:
-        type: preprint
-        title: Investigating the Impact of Feature Reduction for Deep Learning-based
-            Seasonal Sea Ice Forecasting
-        journal: Northern Lights Deep Learning Conference 2025
-        year: '2024'
-        url: https://openreview.net/forum?id=7TwvcPAyxX
-        doi: https://openreview.net/forum?id=7TwvcPAyxX
-        author:
-        -   first: Lars
-            last: Uebbing
-        -   first: Harald
-            middle: Lykke
-            last: Joakimsen
-        -   first: Luigi
-            middle: Tommaso
-            last: Luppino
-        -   first: Iver
-            last: Martinsen
-        -   first: Andrew
-            last: McDonald
-        -   first: Kristoffer
-            middle: Knutsen
-            last: Wickstr\om
-        -   first: S\'ebastien
-            last: Lef\`evre
-        -   first: Arnt
-            middle: B.
-            last: Salberg
-        -   first: Scott
-            last: Hosking
-        -   first: Robert
-            last: Jenssen
     rouse2024:
         type: preprint
         title: Reclassifying Lethal Heat
@@ -167,117 +111,6 @@ entries:
             last: Mora
         -   first: Emily
             last: Shuckburgh
-    parthipan2024:
-        type: preprint
-        title: Defining error accumulation in ML atmospheric simulators
-        year: '2024'
-        journal: ArXiv
-        doi: 10.48550/arXiv.2405.14714
-        author:
-        -   first: Raghul
-            last: Parthipan
-        -   first: Mohit
-            last: Anand
-        -   first: Hannah
-            middle: M.
-            last: Christensen
-        -   first: J.
-            middle: Scott
-            last: Hosking
-        -   first: Damon
-            middle: J.
-            last: Wischik
-    thodoroff_2023:
-        type: preprint
-        title: Multi-fidelity experimental design for ice-sheet simulation
-        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
-            and Decision-making Systems
-        year: '2023'
-        url: https://doi.org/10.48550/arXiv.2307.08449
-        doi: 10.48550/arXiv.2307.08449
-        author:
-        -   first: Pierre
-            last: Thodoroff
-        -   first: Markus
-            last: Kaiser
-        -   first: Rosie
-            last: Williams
-        -   first: Robert
-            last: Arthern
-        -   first: Scott
-            last: Hosking
-        -   first: Neil
-            last: Lawrence
-        -   first: James
-            last: Byrne
-        -   first: Ieva
-            last: Kazlauskaite
-    ravuri_2022_icecoredating:
-        type: preprint
-        doi: 10.48550/ARXIV.2210.16568
-        url: https://arxiv.org/abs/2210.16568
-        title: Ice Core Dating using Probabilistic Programming
-        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
-            and Decision-making Systems
-        year: '2022'
-        author:
-        -   first: Aditya
-            last: Ravuri
-        -   first: Tom
-            middle: R.
-            last: Andersson
-        -   first: Ieva
-            last: Kazlauskaite
-        -   first: Will
-            last: Tebbutt
-        -   first: Richard
-            middle: E.
-            last: Turner
-        -   first: J.
-            middle: Scott
-            last: Hosking
-        -   first: Neil
-            middle: D.
-            last: Lawrence
-        -   first: Markus
-            last: Kaiser
-    lalchand_arxiv_2022:
-        type: preprint
-        doi: 10.48550/ARXIV.2209.04947
-        url: https://arxiv.org/abs/2209.04947
-        title: Kernel Learning for Explainable Climate Science
-        journal: 16th Bayesian Modelling Applications Workshop at UAI, 2022
-        year: '2022'
-        author:
-        -   first: Vidhi
-            last: Lalchand
-        -   first: Kenza
-            last: Tazi
-        -   first: Talay
-            middle: M.
-            last: Cheema
-        -   first: Richard
-            middle: E.
-            last: Turner
-        -   first: Scott
-            last: Hosking
-    amos_2022_eds:
-        type: preprint
-        title: A continuous vertically resolved ozone dataset from the fusion of chemistry
-            climate models with observations using a Bayesian neural network
-        year: '2021'
-        journal: EarthArXiv
-        doi: 10.31223/X5N91S
-        author:
-        -   first: Matt
-            last: Amos
-        -   first: Ushnish
-            last: Sengupta
-        -   first: Paul
-            last: Young
-        -   first: J.
-            middle: Scott
-            last: Hosking
     evans_cryospere_2026:
         type: article
         title: 'Icebergs, jigsaw puzzles, and genealogy: automated multi-generational
@@ -571,6 +404,59 @@ entries:
         -   first: J.
             middle: Scott
             last: Hosking
+    uebbing2024investigating:
+        type: article
+        title: Investigating the Impact of Feature Reduction for Deep Learning-based
+            Seasonal Sea Ice Forecasting
+        journal: Northern Lights Deep Learning Conference 2025
+        year: '2025'
+        url: https://raw.githubusercontent.com/mlresearch/v265/main/assets/uebbing25a/uebbing25a.pdf
+        doi: https://raw.githubusercontent.com/mlresearch/v265/main/assets/uebbing25a/uebbing25a.pdf
+        author:
+        -   first: Lars
+            last: Uebbing
+        -   first: Harald
+            middle: Lykke
+            last: Joakimsen
+        -   first: Luigi
+            middle: Tommaso
+            last: Luppino
+        -   first: Iver
+            last: Martinsen
+        -   first: Andrew
+            last: McDonald
+        -   first: Kristoffer
+            middle: Knutsen
+            last: Wickstr{\o}m
+        -   first: S{\'e}bastien
+            last: Lef{\`e}vre
+        -   first: Arnt
+            middle: B.
+            last: Salberg
+        -   first: Scott
+            last: Hosking
+        -   first: Robert
+            last: Jenssen
+    parthipan2024:
+        type: article
+        title: Defining error accumulation in ML atmospheric simulators
+        year: '2024'
+        journal: ArXiv
+        doi: 10.48550/arXiv.2405.14714
+        author:
+        -   first: Raghul
+            last: Parthipan
+        -   first: Mohit
+            last: Anand
+        -   first: Hannah
+            middle: M.
+            last: Christensen
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Damon
+            middle: J.
+            last: Wischik
     tazi_hess_2024:
         type: article
         title: 'Downscaling precipitation over High-mountain Asia using multi-fidelity
@@ -738,6 +624,31 @@ entries:
         -   first: Richard
             middle: E
             last: Turner
+    thodoroff_2023:
+        type: article
+        title: Multi-fidelity experimental design for ice-sheet simulation
+        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
+            and Decision-making Systems
+        year: '2023'
+        url: https://doi.org/10.48550/arXiv.2307.08449
+        doi: 10.48550/arXiv.2307.08449
+        author:
+        -   first: Pierre
+            last: Thodoroff
+        -   first: Markus
+            last: Kaiser
+        -   first: Rosie
+            last: Williams
+        -   first: Robert
+            last: Arthern
+        -   first: Scott
+            last: Hosking
+        -   first: Neil
+            last: Lawrence
+        -   first: James
+            last: Byrne
+        -   first: Ieva
+            last: Kazlauskaite
     parthipan_2023_gmd:
         type: article
         title: 'Using probabilistic machine learning to better model temporal patterns
@@ -840,6 +751,55 @@ entries:
         -   first: R.
             middle: E.
             last: Turner
+    ravuri_2022_icecoredating:
+        type: article
+        doi: 10.48550/ARXIV.2210.16568
+        url: https://arxiv.org/abs/2210.16568
+        title: Ice Core Dating using Probabilistic Programming
+        journal: NeurIPS 2022 Workshop on Gaussian Processes, Spatiotemporal Modeling,
+            and Decision-making Systems
+        year: '2022'
+        author:
+        -   first: Aditya
+            last: Ravuri
+        -   first: Tom
+            middle: R.
+            last: Andersson
+        -   first: Ieva
+            last: Kazlauskaite
+        -   first: Will
+            last: Tebbutt
+        -   first: Richard
+            middle: E.
+            last: Turner
+        -   first: J.
+            middle: Scott
+            last: Hosking
+        -   first: Neil
+            middle: D.
+            last: Lawrence
+        -   first: Markus
+            last: Kaiser
+    lalchand_arxiv_2022:
+        type: article
+        doi: 10.48550/ARXIV.2209.04947
+        url: https://arxiv.org/abs/2209.04947
+        title: Kernel Learning for Explainable Climate Science
+        journal: 16th Bayesian Modelling Applications Workshop at UAI, 2022
+        year: '2022'
+        author:
+        -   first: Vidhi
+            last: Lalchand
+        -   first: Kenza
+            last: Tazi
+        -   first: Talay
+            middle: M.
+            last: Cheema
+        -   first: Richard
+            middle: E.
+            last: Turner
+        -   first: Scott
+            last: Hosking
     simpson_2021_erl:
         type: article
         doi: 10.1088/1748-9326/ac3288
@@ -968,6 +928,23 @@ entries:
             last: Downie
         -   first: Emily
             last: Shuckburgh
+    amos_2021_eartharxiv:
+        type: article
+        title: A continuous vertically resolved ozone dataset from the fusion of chemistry
+            climate models with observations using a Bayesian neural network
+        year: '2021'
+        journal: EarthArXiv
+        doi: 10.31223/X5N91S
+        author:
+        -   first: Matt
+            last: Amos
+        -   first: Ushnish
+            last: Sengupta
+        -   first: Paul
+            last: Young
+        -   first: J.
+            middle: Scott
+            last: Hosking
     king_2021_joc:
         type: article
         title: Inhomogeneity of the Surface Air Temperature Record from Halley, Antarctica
